@@ -1,0 +1,85 @@
+{
+"frames": {
+	"cipratan_kuning0001.png": {
+		"frame": {"x":0, "y":167, "w":24, "h":21},
+		"spriteSourceSize": {"x":63,"y":155,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0002.png": {
+		"frame": {"x":0, "y":167, "w":24, "h":21},
+		"spriteSourceSize": {"x":63,"y":155,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0003.png": {
+		"frame": {"x":25, "y":167, "w":15, "h":78},
+		"spriteSourceSize": {"x":68,"y":85,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0004.png": {
+		"frame": {"x":25, "y":167, "w":15, "h":78},
+		"spriteSourceSize": {"x":68,"y":85,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0005.png": {
+		"frame": {"x":202, "y":0, "w":33, "h":157},
+		"spriteSourceSize": {"x":67,"y":14,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0006.png": {
+		"frame": {"x":202, "y":0, "w":33, "h":157},
+		"spriteSourceSize": {"x":67,"y":14,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0007.png": {
+		"frame": {"x":116, "y":118, "w":85, "h":122},
+		"spriteSourceSize": {"x":48,"y":0,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0008.png": {
+		"frame": {"x":116, "y":118, "w":85, "h":122},
+		"spriteSourceSize": {"x":48,"y":0,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0009.png": {
+		"frame": {"x":0, "y":33, "w":128, "h":84},
+		"spriteSourceSize": {"x":15,"y":18,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0010.png": {
+		"frame": {"x":0, "y":33, "w":128, "h":84},
+		"spriteSourceSize": {"x":15,"y":18,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0011.png": {
+		"frame": {"x":0, "y":0, "w":146, "h":32},
+		"spriteSourceSize": {"x":5,"y":53,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0012.png": {
+		"frame": {"x":0, "y":138, "w":106, "h":28},
+		"spriteSourceSize": {"x":5,"y":57,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0013.png": {
+		"frame": {"x":0, "y":118, "w":115, "h":19},
+		"spriteSourceSize": {"x":0,"y":85,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0014.png": {
+		"frame": {"x":0, "y":118, "w":115, "h":19},
+		"spriteSourceSize": {"x":0,"y":85,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	},
+	"cipratan_kuning0015.png": {
+		"frame": {"x":0, "y":189, "w":11, "h":12},
+		"spriteSourceSize": {"x":63,"y":159,"w":151,"h":176},
+		"sourceSize": {"w":151,"h":176}
+	}
+
+},
+"meta": {
+	"image": "cipratan_kuning.png",
+	"size": {"w": 256, "h": 256},
+	"scale": "1"
+}
+}
